@@ -11,3 +11,5 @@ Os comandos a seguir irão substituir seus arquivos atuais, faça um backup da p
   cp /usr/share/X11/xkb/symbols/* ~/Backups/
   sudo cp files/{us,br} /usr/share/X11/xkb/symbols/
 ```
+
+Logo depois reiniciei ou faça logout!!
